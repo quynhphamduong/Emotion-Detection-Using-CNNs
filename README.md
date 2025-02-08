@@ -56,7 +56,7 @@ Use `TestModel.ipynb` to evaluate the model’s accuracy.
 ## Results
 The model achieved **~60% accuracy** on the test set due to dataset limitations and model overfitting. Below is a confusion matrix showing class-wise performance:
 
-![Confusion Matrix](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/confusion%20matrix.png)
+<img src="https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/confusion%20matrix.png" alt="Confusion Matrix" width="500">
 
 <img src="https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/a2958e7de9576071c0ec208bfbbf76d3829d95d9/accuracy.png" alt="Accuracy" width="500">
 
@@ -64,12 +64,11 @@ The model achieved **~60% accuracy** on the test set due to dataset limitations 
 
 Some correctly classified images:
 
-![Correct Predictions](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/goodtest.png)
+<img src="https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/goodtest.png" alt="Correct Predictions" width="500">
 
 Some misclassified images:
 
-![Incorrect Predictions](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/wrongtest.png)
-
+<img src="https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/wrongtest.png" alt="Incorrect Predictions" width="500">
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
