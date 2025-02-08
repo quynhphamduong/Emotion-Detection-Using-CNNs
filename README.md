@@ -58,6 +58,8 @@ The model achieved **~60% accuracy** on the test set due to dataset limitations 
 
 ![Confusion Matrix](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/confusion%20matrix.png)
 
+[Accuracy](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/a2958e7de9576071c0ec208bfbbf76d3829d95d9/accuracy.png)
+[Loss](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/a2958e7de9576071c0ec208bfbbf76d3829d95d9/loss.png)
 Some correctly classified images:
 
 ![Correct Predictions](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/goodtest.png)
