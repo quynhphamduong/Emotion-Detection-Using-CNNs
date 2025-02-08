@@ -69,17 +69,9 @@ Some misclassified images:
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ---
 
-### How to Add Images to `README.md`
 
-1. Create an `images` folder in the project directory.
-2. Upload your images (e.g., `sample_prediction.png`).
-3. Use the following Markdown syntax to embed an image:
-   ```markdown
-   ![Description](images/sample_prediction.png)
-   ```
 
