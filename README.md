@@ -1,4 +1,4 @@
-# Emotion Detection Using CNNs
+# 🎭 Emotion Detection Using CNNs
 
 This project implements a facial emotion recognition system using Convolutional Neural Networks (CNNs). It is trained on the FER2013 dataset and uses a modified VGG-16 architecture to classify seven different emotions from facial expressions.
 
@@ -15,7 +15,7 @@ This project implements a facial emotion recognition system using Convolutional 
 ## Introduction
 Facial emotion recognition is a significant field in artificial intelligence, with applications in security, healthcare, education, and human-computer interaction. The project uses a CNN-based approach to classify images into seven emotions: **Angry, Disgust, Fear, Happy, Sad, Surprise, and Neutral**.
 
-## Dataset
+##📂 Dataset
 The project uses the [FER2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013), which contains **35,887 grayscale images (48x48 pixels)**, each labeled with one of seven emotions. The dataset is split into training and testing sets.
 
 ![FER2013 Dataset Sample](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/fer2013datset.png)
