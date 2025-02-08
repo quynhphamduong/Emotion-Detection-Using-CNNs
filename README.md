@@ -69,8 +69,7 @@ Some correctly classified images:
 Some misclassified images:
 
 <img src="https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/wrongtest.png" alt="Incorrect Predictions" width="500">
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
+
 
 
 
