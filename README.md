@@ -18,7 +18,7 @@ Facial emotion recognition is a significant field in artificial intelligence, wi
 ## Dataset
 The project uses the [FER2013 dataset](https://www.kaggle.com/datasets/msambare/fer2013), which contains **35,887 grayscale images (48x48 pixels)**, each labeled with one of seven emotions. The dataset is split into training and testing sets.
 
-![FER2013 Dataset Sample](images/fer2013_sample.png)
+![FER2013 Dataset Sample](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/fer2013datset.png)
 
 ## Model Architecture
 The model is based on the **VGG-16** architecture with modifications:
@@ -28,7 +28,7 @@ The model is based on the **VGG-16** architecture with modifications:
 - **Fully connected layers** for classification
 - **Softmax activation** for multi-class classification
 
-![VGG-16 Architecture](images/vgg16_architecture.png)
+![VGG-16 Architecture](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/vgg16.jpg)
 
 ## Installation
 
@@ -56,15 +56,15 @@ Use `TestModel.ipynb` to evaluate the model’s accuracy.
 ## Results
 The model achieved **~60% accuracy** on the test set due to dataset limitations and model overfitting. Below is a confusion matrix showing class-wise performance:
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/confusion%20matrix.png)
 
 Some correctly classified images:
 
-![Correct Predictions](images/correct_predictions.png)
+![Correct Predictions](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/goodtest.png)
 
 Some misclassified images:
 
-![Incorrect Predictions](images/incorrect_predictions.png)
+![Incorrect Predictions](https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/wrongtest.png)
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
