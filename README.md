@@ -54,7 +54,7 @@ Run the Jupyter Notebook `Build_the_model.ipynb` on Google Colab to train the mo
 Use `TestModel.ipynb` to evaluate the model’s accuracy.
 
 ## Results
-The model achieved **~60% accuracy** on the test set due to dataset limitations and model overfitting. Below is a confusion matrix showing class-wise performance:
+The model achieved **60% accuracy** on the test set due to dataset limitations and model overfitting. Below is a confusion matrix showing class-wise performance:
 
 <img src="https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs/blob/0da7d7dada9614e13fa37e00fce62aa51f44f04b/confusion%20matrix.png" alt="Confusion Matrix" width="500">
 
