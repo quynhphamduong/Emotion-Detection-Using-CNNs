@@ -38,12 +38,6 @@ git clone https://github.com/quynhphamduong/Emotion-Detection-Using-CNNs.git
 cd Emotion-Detection-Using-CNNs
 ```
 
-### 2. Set up the environment
-```bash
-python3 -m venv env
-source env/bin/activate  # On Windows, use `env\Scripts\activate`
-pip install -r requirements.txt
-```
 
 ## Usage
 
